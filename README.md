@@ -50,8 +50,8 @@ Mettre en œuvre :
 
 1. **Cloner le projet ou récupérer le .zip**
    ```
-   git clone https://github.com/MohanoSuke/VisualiseurLogs.git 
-   cd visualiseur-logs
+   git clone https://github.com/MohanoSuke/VisualiseurLogs.git
+   cd VisualiseurLogs
    ```
 
 2. **Lancer les conteneurs**
